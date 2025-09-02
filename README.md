@@ -1,4 +1,42 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Carlos Murillo
+
+🎓 Estudiante de **Ingeniería de Software** en la [Universidad Nacional de Ingeniería (UNI)](https://www.uni.edu.pe/)  
+💻 Apasionado por el desarrollo de software, la resolución de problemas y el aprendizaje continuo.  
+🚀 Actualmente explorando **desarrollo web**, **algoritmos**, y **buenas prácticas de programación**.
+
+---
+
+## 🛠️ Tecnologías y herramientas
+- Lenguajes: `Java`, `C++`, `Python`, `JavaScript`
+- Web: `HTML`, `CSS`, `React`, `Node.js`
+- Base de datos: `MySQL`, `MongoDB`
+- Otros: `Git`, `GitHub`, `VS Code`, `Postman`, `Figma`
+
+---
+
+## 📂 Algunos de mis proyectos
+- 🎮 **[Nombre del Proyecto 1](#)**: Breve descripción del proyecto. Tecnologías usadas.
+- 📱 **[Nombre del Proyecto 2](#)**: Breve descripción del proyecto. Tecnologías usadas.
+- 🤖 **[Nombre del Proyecto 3](#)**: Breve descripción del proyecto. Tecnologías usadas.
+
+*(Puedes agregar enlaces a tus repositorios o dejarlo para más adelante)*
+
+---
+
+## 📈 GitHub Stats
+
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=github_dark&hide=issues)
+
+---
+
+## 📫 ¿Cómo contactarme?
+
+- Email: [tu-correo@ejemplo.com](mailto:tu-correo@ejemplo.com)
+- LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+
+---
+
+_Gracias por visitar mi perfil 😊_
 
 <!--
 **carlosmurillol-max/carlosmurillol-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
