@@ -29,8 +29,8 @@
 
 ## 📫 ¿Cómo contactarme?
 
-- Email: [tu-correo@ejemplo.com](mailto:tu-correo@ejemplo.com)
-- LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- Email: carlos.murillo.l.@uni.pe
+- LinkedIn: 
 
 ---
 
