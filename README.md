@@ -23,7 +23,7 @@
 
 ## 📈 GitHub Stats
 
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=github_dark&hide=issues)
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=carlosmurillol-max&show_icons=true&theme=github_dark&hide=issues)
 
 ---
 
