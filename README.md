@@ -7,7 +7,7 @@
 ---
 
 ## 🛠️ Tecnologías y herramientas
-- Lenguajes: `Java`, `C++`, `Python`, `JavaScript`
+- Lenguajes: `C++`, `Python`, `JavaScript`
 - Web: `HTML`, `CSS`, `React`, `Node.js`
 - Base de datos: `MySQL`, `MongoDB`
 - Otros: `Git`, `GitHub`, `VS Code`, `Postman`, `Figma`
