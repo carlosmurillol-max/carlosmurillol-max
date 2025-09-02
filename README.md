@@ -15,11 +15,9 @@
 ---
 
 ## 📂 Algunos de mis proyectos
-- 🎮 **[Nombre del Proyecto 1](#)**: Breve descripción del proyecto. Tecnologías usadas.
-- 📱 **[Nombre del Proyecto 2](#)**: Breve descripción del proyecto. Tecnologías usadas.
-- 🤖 **[Nombre del Proyecto 3](#)**: Breve descripción del proyecto. Tecnologías usadas.
-
-*(Puedes agregar enlaces a tus repositorios o dejarlo para más adelante)*
+- 🎮 
+- 📱 
+- 🤖 
 
 ---
 
